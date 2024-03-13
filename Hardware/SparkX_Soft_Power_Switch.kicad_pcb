@@ -2146,7 +2146,7 @@
     (at 124.714 117.983)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "PROD_ID" "RES-07836")
+    (property "PROD_ID" "RES-07863")
     (property "Sheetfile" "SparkX_Soft_Power_Switch.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
