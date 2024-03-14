@@ -30,7 +30,7 @@ If needed, pads are provided for a larger, external button.
 
 The Soft Power Switch supports battery charging. If the target device has onboard LiPo charging, current can be passed back through the switch circuit and charge the battery.
 
-<div class="alert alert-warning"><b>Heads up!</b> The Mk2 Soft Power Switch works up to 5.5V only. (Mk1 is good up to 12V.)</div>
+<b>Heads up!</b> The Mk2 Soft Power Switch works up to 5.5V only. (Mk1 is good up to 12V.)
 
 Pros:
 
