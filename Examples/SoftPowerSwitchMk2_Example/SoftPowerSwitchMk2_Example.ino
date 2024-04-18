@@ -112,7 +112,7 @@ void loop()
 
         if(digitalRead(_PUSH) == HIGH) break;
       }
-      Serial.println("User released button before forced powered could complete. Try again, but hold power button for 7s");
+      Serial.println("User released button before forced powered could complete. Try again, but hold power button for 10s");
       powerPressedStartTime = 0; //Reset var to return to normal 'on' state
     }
   }
