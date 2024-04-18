@@ -6,7 +6,7 @@ SparkX Soft Power Switch Mk2
 [*SparkX Soft Power Switch Mk2 (SPX-25365)*](https://www.sparkfun.com/products/25365)
 
 
-The Soft Power Switch Mk2 is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~7 seconds will force a power-down. If you're building something with an enclosed battery and need a good power button, this is the board you need.
+The Soft Power Switch Mk2 is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~10 seconds will force a power-down. If you're building something with an enclosed battery and need a good power button, this is the board you need.
 
 The [Mk1 Soft Power Switch](https://www.sparkfun.com/products/17870) is great, but we do see occasional issues caused by component tolerances or the operating temperature. Mk2 is based on an application note by Texas Instruments, and is a completely digital design. It is based around a 74LVC1G175 D-type flip-flop - remember those?! - and is insensitive to temperature and component variation. It also includes improvements like: an over-current self-resetting 2A fuse; input and output LEDs. This version has JST 2mm battery connectors, but we also have a version with [USB-C](https://www.sparkfun.com/products/25366) connectors.
 
@@ -49,7 +49,7 @@ Features
 * Input voltage: 5.5V maximum, 1.8V minimum
 * Maximum current draw: 2A continuous, 4A peak (fuse protected)
 * Very low µA quiescent current
-* Hard override: push and hold the button for ~7 seconds
+* Hard override: push and hold the button for ~10 seconds
 * Supports battery charging
 * 1" x 1" PCB
 * LEDs: VIN and VOUT (can be disabled if desired)
