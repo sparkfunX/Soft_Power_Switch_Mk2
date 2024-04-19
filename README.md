@@ -34,7 +34,7 @@ The Soft Power Switch supports battery charging. If the target device has onboar
 
 Pros:
 
-* Very low µA quiescent current
+* Very low quiescent current: <1µA @ 3.75V, with VIN LED disabled
 * Hard override power down in case your microcontroller loses its mind
 * PUSH and OFF pins can be connected to a microcontroller
 * Supports battery charging
@@ -48,7 +48,7 @@ Features
 -------------------
 * Input voltage: 5.5V maximum, 1.8V minimum
 * Maximum current draw: 2A continuous, 4A peak (fuse protected)
-* Very low µA quiescent current
+* Very low quiescent current: <1µA @ 3.75V, with VIN LED disabled
 * Hard override: push and hold the button for ~10 seconds
 * Supports battery charging
 * 1" x 1" PCB
