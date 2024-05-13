@@ -1,7 +1,7 @@
 SparkX Soft Power Switch Mk2
 ===================================================
 
-[![SparkX Soft Power Switch Mk2 (SPX-25365)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/25365)
+[![SparkX Soft Power Switch Mk2 (SPX-25365)](https://cdn.sparkfun.com/r/600-600/assets/parts/2/5/8/9/2/SPX-25365-Feature.jpg)](https://www.sparkfun.com/products/25365)
 
 [*SparkX Soft Power Switch Mk2 (SPX-25365)*](https://www.sparkfun.com/products/25365)
 
