@@ -52,7 +52,7 @@
 				)
 			)
 			(property "Description" "Fiducial Marker"
-				(at 0 0 0)
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1522,7 +1522,7 @@
 				)
 			)
 			(property "Description" "2 Pin 2mm JST Battery Connector"
-				(at 0 0 0)
+				(at 0 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1724,7 +1724,7 @@
 				)
 			)
 			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
+				(at 0 -17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1980,7 +1980,7 @@
 				)
 			)
 			(property "Description" "Diode"
-				(at 0 0 0)
+				(at 0 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2151,7 +2151,7 @@
 				)
 			)
 			(property "Description" "N-MOSFET transistor, drain/gate/source"
-				(at 0 0 0)
+				(at 0 -17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2459,7 +2459,7 @@
 				)
 			)
 			(property "Description" "Dual N-Channel P-Channel MOSFET"
-				(at 0 0 0)
+				(at 0 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2860,7 +2860,7 @@
 				)
 			)
 			(property "Description" "Resettable fuse 2A"
-				(at 0 0 0)
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2994,7 +2994,7 @@
 				)
 			)
 			(property "Footprint" "SparkFun-Hardware:Standoff"
-				(at 0 -5.08 0)
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3003,7 +3003,7 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at 0 -3.81 0)
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3012,7 +3012,7 @@
 				)
 			)
 			(property "Description" "Drill holes for mechanically mounting via screws, standoffs, etc."
-				(at 0 0 0)
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3093,7 +3093,7 @@
 				)
 			)
 			(property "Description" "Single Schmitt-Trigger Inverter, Low-Voltage CMOS, 1.65V to 5.5V, SOT-353 (SC70)"
-				(at 0 0 0)
+				(at 0 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3330,7 +3330,7 @@
 				)
 			)
 			(property "Description" "Single Schmitt-Trigger Buffer, Low-Voltage CMOS, 1.65V to 5.5V, SOT-353 (SC70)"
-				(at 0 0 0)
+				(at 0 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3554,7 +3554,7 @@
 				)
 			)
 			(property "Description" "Single D-Type Flip-Flop With Asynchronous Clear, 1.65V to 5.5V, SOT-323 (SC70)"
-				(at 0 0 0)
+				(at 0 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3755,7 +3755,7 @@
 				)
 			)
 			(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-				(at 0 0 0)
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3928,8 +3928,8 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
-				(at 0 -6.35 0)
+			(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Red"
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3938,7 +3938,7 @@
 				)
 			)
 			(property "Datasheet" "https://docs.broadcom.com/docs/AV02-0551EN"
-				(at -1.27 -8.89 0)
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3947,7 +3947,7 @@
 				)
 			)
 			(property "Description" "Light emitting diode"
-				(at 0 0 0)
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3956,7 +3956,7 @@
 				)
 			)
 			(property "PROD_ID" "DIO-17976"
-				(at 0 -4.572 0)
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4128,7 +4128,7 @@
 				)
 			)
 			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-				(at 0 0 0)
+				(at 0 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4225,7 +4225,7 @@
 				)
 			)
 			(property "Description" "Power symbol creates a global label with name \"VIN\""
-				(at 0 0 0)
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4346,7 +4346,7 @@
 				)
 			)
 			(property "Description" "Power symbol creates a global label with name \"VOUT\""
-				(at 0 0 0)
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5340,7 +5340,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm"
+			(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm_h1.9mm"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -5359,7 +5359,7 @@
 				)
 			)
 			(property "Description" "Single Pole Single Throw (SPST) switch"
-				(at 0 0 0)
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -9286,7 +9286,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
+		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Red"
 			(at 44.45 151.13 0)
 			(effects
 				(font
@@ -9574,7 +9574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm"
+		(property "Footprint" "SparkFun-Switch:Push_SMD_5.2x5.2mm_h1.9mm"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -9889,7 +9889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
+		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric_Red"
 			(at 31.75 151.13 0)
 			(effects
 				(font
